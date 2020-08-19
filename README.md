@@ -81,8 +81,7 @@ Knowledge in Spring Boot and Spring Auth">
 
 #### Version Control
 
-<img  height="32px"  src="https://cdn.svgporn.com/logos/git-icon.svg"  title="GIT"  alt="GIT">
-<img  height="32px"  src="https://www.ayies.com/wp-content/uploads/2018/09/svn-icon.jpg"  title="Subversion"  alt="Subversion">
+<img  height="32px"  src="https://cdn.svgporn.com/logos/git-icon.svg"  title="GIT"  alt="GIT"><img  height="32px"  src="https://www.ayies.com/wp-content/uploads/2018/09/svn-icon.jpg"  title="Subversion"  alt="Subversion">
 <br/>
 
 - GIT
