@@ -28,8 +28,7 @@ I've always worked for projects in oracle databases, but my passion for learning
 ### Languages and tools
 #### Databases
 
-<img  height="32px"  width="64px"  src="https://cdn.svgporn.com/logos/oracle.svg"  alt="Oracle Database" title='Oracle Database Versions 6 to 12'>
-<img  height="32px"  src="https://cdn.svgporn.com/logos/firebase.svg"  alt="Firebase"
+<img  height="32px"  width="64px"  src="https://cdn.svgporn.com/logos/oracle.svg"  alt="Oracle Database" title='Oracle Database Versions 6 to 12'><img  height="32px"  src="https://cdn.svgporn.com/logos/firebase.svg"  alt="Firebase"
 title="Firebase">
 <br/>
 
@@ -38,14 +37,11 @@ title="Firebase">
 
 #### Languages
 
-<img  height="32px"  width="32px"  src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png"  title="Oracle Pl/Sql"  alt="Oracle Pl/Sql">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/java.svg"  alt="Java"
+<img  height="32px"  width="32px"  src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png"  title="Oracle Pl/Sql"  alt="Oracle Pl/Sql"><img  height="32px"  src="https://cdn.svgporn.com/logos/java.svg"  alt="Java"
 title="Java
 Production experience in versions 4 to 8
-Knowledge in versions 9 to 12">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/javascript.svg"  alt="Javascript"
-title="Javascript Ecma 6">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/json.svg"  title="Json"  alt="Json">
+Knowledge in versions 9 to 12"><img  height="32px"  src="https://cdn.svgporn.com/logos/javascript.svg"  alt="Javascript"
+title="Javascript Ecma 6"><img  height="32px"  src="https://cdn.svgporn.com/logos/json.svg"  title="Json"  alt="Json">
 <br/>
 
 - PLSQL
@@ -58,10 +54,7 @@ title="Javascript Ecma 6">
 
 <img  height="32px"  src="https://cdn.svgporn.com/logos/spring.svg" alt="Spring Framework" title="Spring Framework
 Experience in production libs Spring Core, Spring Data and Spring MVC
-Knowledge in Spring Boot and Spring Auth">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/hibernate.svg"  title="Hibernate"  alt="Hibernate">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/nodejs-icon.svg"  title="NodeJs"  alt="NodeJs">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/angular-icon.svg"  title="Angular"  alt="Angular">
+Knowledge in Spring Boot and Spring Auth"><img  height="32px"  src="https://cdn.svgporn.com/logos/hibernate.svg"  title="Hibernate"  alt="Hibernate"><img  height="32px"  src="https://cdn.svgporn.com/logos/nodejs-icon.svg"  title="NodeJs"  alt="NodeJs"><img  height="32px"  src="https://cdn.svgporn.com/logos/angular-icon.svg"  title="Angular"  alt="Angular">
 <br/>
 
 - Spring Framework (Experience in production libs Spring Core, Spring Data and Spring MVC)
@@ -72,8 +65,7 @@ Knowledge in Spring Boot and Spring Auth">
 
 #### Devops tools
 
-<img  height="32px"  src="https://cdn.svgporn.com/logos/jenkins.svg"  title="Jenkins"  alt="Jenkins">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/docker-icon.svg"  title="Docker"  alt="Docker">
+<img  height="32px"  src="https://cdn.svgporn.com/logos/jenkins.svg"  title="Jenkins"  alt="Jenkins"><img  height="32px"  src="https://cdn.svgporn.com/logos/docker-icon.svg"  title="Docker"  alt="Docker">
 <br/>
 
 - Jenkins
@@ -89,9 +81,7 @@ Knowledge in Spring Boot and Spring Auth">
 
 #### IDEs and Editors
 
-<img  height="32px"  src="https://cdn.svgporn.com/logos/visual-studio-code.svg"  title="VS Code"  alt="VS Code">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/eclipse.svg"  title="Eclipse IDE"  alt="Eclipse IDE">
-<img  height="32px"  src="https://cdn.svgporn.com/logos/intellij-idea.svg"  title="Intellij IDEA"  alt="Intellij IDEA">
+<img  height="32px"  src="https://cdn.svgporn.com/logos/visual-studio-code.svg"  title="VS Code"  alt="VS Code"><img  height="32px"  src="https://cdn.svgporn.com/logos/eclipse.svg"  title="Eclipse IDE"  alt="Eclipse IDE"><img  height="32px"  src="https://cdn.svgporn.com/logos/intellij-idea.svg"  title="Intellij IDEA"  alt="Intellij IDEA">
 <br/>
 
 - VS Code
